@@ -11,13 +11,9 @@
 
 - 👯 I'm looking to collaborate on **Lumen**
 
-- 🤝 I'm looking for help with **Lumen**
-
 - 👨‍💻 All of my projects are available at [https://fridayz.qzz.io](https://fridayz.qzz.io)
 
 - 📝 I regularly write articles on [dev.to/rahulcodx](https://dev.to/rahulcodx)
-
-- 💬 Ask me about **React, Vue, and GSAP**
 
 - 📫 How to reach me **workrahulcodx@gmail.com**
 
