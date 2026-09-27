@@ -3,19 +3,19 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulcodx&label=Profile%20views&color=0e75b6&style=flat" alt="rahulcodx" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulcodx" alt="rahulcodx" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulcodx&theme=onedark&no-frame=true" alt="rahulcodx" /></a> </p>
 
-- 🔭 I’m currently working on **Lumen**
+- 🔭 I'm currently working on **Lumen**
 
-- 🌱 I’m currently learning **Next.js, Prisma, and data visualization libraries (D3, Recharts)**
+- 🌱 I'm currently learning **Next.js, Prisma, and data visualization libraries (D3, Recharts)**
 
-- 👯 I’m looking to collaborate on **Lumen**
+- 👯 I'm looking to collaborate on **Lumen**
 
-- 🤝 I’m looking for help with **Lumen**
+- 🤝 I'm looking for help with **Lumen**
 
 - 👨‍💻 All of my projects are available at [https://fridayz.qzz.io](https://fridayz.qzz.io)
 
-- 📝 I regularly write articles on [dev.to/rahulcodx](dev.to/rahulcodx)
+- 📝 I regularly write articles on [dev.to/rahulcodx](https://dev.to/rahulcodx)
 
 - 💬 Ask me about **React, Vue, and GSAP**
 
@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulcodx&show_icons=true&locale=en" alt="rahulcodx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulcodx&" alt="rahulcodx" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=rahulcodx" alt="rahulcodx" /></p>
