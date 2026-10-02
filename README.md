@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **Next.js, Prisma, and data visualization libraries (D3, Recharts)**
 
-- 📫 How to reach me **workrahulxdevv@gmail.com**
+- 📫 How to reach me **rahulxdevv@proton.me**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
