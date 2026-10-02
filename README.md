@@ -7,12 +7,6 @@
 
 - 🌱 I'm currently learning **Next.js, Prisma, and data visualization libraries (D3, Recharts)**
 
-- 👯 I'm looking to collaborate on **Lumen**
-
-- 👨‍💻 All of my projects are available at [https://fridayz.qzz.io](https://fridayz.qzz.io)
-
-- 📝 I regularly write articles on [dev.to/rahulxdevv](https://dev.to/rahulxdevv)
-
 - 📫 How to reach me **workrahulxdevv@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
