@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulxdevv&label=Profile%20views&color=0e75b6&style=flat" alt="rahulxdevv" /> </p>
 
-- 🔭 I'm currently working on **Lumen**
+- 🔭 I'm currently working on **Fetchy**
 
 - 🌱 I'm currently learning **Next.js, Prisma, and data visualization libraries (D3, Recharts)**
 
